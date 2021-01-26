@@ -1,6 +1,7 @@
 Hello Hi
 This is the first txt file
 
-Change in the Branch1
+Change after git add
 
 
+Changes for Branch 1
